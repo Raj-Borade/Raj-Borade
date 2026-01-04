@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack projects using Spring Boot and MERN stack, along with AI/ML mini-projects.<br>Open-source full-stack applications, backend APIs, and beginner-to-intermediate AI/ML projects.<br>System design basics, scalable backend architecture, and ML model deployment.<br>Data Structures & Algorithms, Advanced Java (Spring, Hibernate), and Applied AI/ML.<br>Python, Java, DSA, Spring Boot, Web Development, and Git/GitHub.<br>I enjoy building both intelligent systems and scalable backend services.<br><br> Tech Stack: Python | AI/ML| Java | Spring Boot | Hibernate | Node.js | Express | React | Angular | JavaScript | Databases 
+Full-stack projects using Spring Boot and MERN stack, along with AI/ML mini-projects.<br>Open-source full-stack applications, backend APIs, and beginner-to-intermediate AI/ML projects.<br>System design basics, scalable backend architecture, and ML model deployment.<br>Data Structures & Algorithms, Advanced Java (Spring, Hibernate), and Applied AI/ML.<br>Python, Java, DSA, Spring Boot, Web Development, and Git/GitHub.<br>I enjoy building both intelligent systems and scalable backend services.<br><br> Tech Stack: Python | AI/ML | Java | Spring Boot | Hibernate | Node.js | Express | React | Angular | JavaScript | Databases 
 
 
 ## 🌐 Socials:
